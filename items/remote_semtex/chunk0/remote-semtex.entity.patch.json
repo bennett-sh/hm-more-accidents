@@ -1,21 +1,21 @@
 {
-  "tempHash": "00B3AE9C1BD8BBE3",
-  "tbluHash": "00871D1D21DBEC81",
-  "patch": [
-    {
-      "SubEntityOperation": [
-        "c57837ea8170f2a9",
-        {
-          "AddProperty": [
-            "m_eDeathContext",
-            {
-              "type": "EDeathContext",
-              "value": "eDC_ACCIDENT"
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "patchVersion": 6
+	"tempHash": "00B3AE9C1BD8BBE3",
+	"tbluHash": "00871D1D21DBEC81",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"c57837ea8170f2a9",
+				{
+					"AddProperty": [
+						"m_eDeathContext",
+						{
+							"type": "EDeathContext",
+							"value": "eDC_ACCIDENT"
+						}
+					]
+				}
+			]
+		}
+	],
+	"patchVersion": 6
 }
