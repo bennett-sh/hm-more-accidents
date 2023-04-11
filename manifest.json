@@ -1,9 +1,26 @@
 {
 	"$schema": "https://raw.githubusercontent.com/bennett-sh/schemas/main/hm/smf-mod.v2.schema.json",
 	"version": "0.1.0",
-	"id": "BSh.YourID",
-	"name": "Incredible Mod",
-	"description": "A truly amazing mod",
+	"id": "BSh.MoreAccidents",
+	"name": "More Accidents",
+	"description": "Makes more thing accidental",
 	"authors": ["BSh"],
-	"frameworkVersion": "2.15.1"
+	"frameworkVersion": "2.15.1",
+	"options": [
+		{
+			"name": "ICA Tripwire",
+			"type": "checkbox",
+			"contentFolders": ["items/tripwire"]
+		},
+		{
+			"name": "Explosive Phone",
+			"type": "checkbox",
+			"contentFolders": ["items/explosive_phone"]
+		},
+		{
+			"name": "Remote Semtex",
+			"type": "checkbox",
+			"contentFolders": ["items/remote_semtex"]
+		}
+	]
 }
