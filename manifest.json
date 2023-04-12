@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/bennett-sh/schemas/main/hm/smf-mod.v2.schema.json",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"id": "BSh.MoreAccidents",
 	"name": "More Accidents",
 	"description": "Makes more thing accidental",
@@ -27,5 +27,6 @@
 			"type": "checkbox",
 			"contentFolders": ["items/deadly_banana"]
 		}
-	]
+	],
+	"updateCheck": "https://github.com/bennett-sh/hm-more-accidents/releases/latest/download/updates.json"
 }
