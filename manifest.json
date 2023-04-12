@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/bennett-sh/schemas/main/hm/smf-mod.v2.schema.json",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"id": "BSh.MoreAccidents",
 	"name": "More Accidents",
 	"description": "Makes more thing accidental",
