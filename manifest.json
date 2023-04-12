@@ -21,6 +21,11 @@
 			"name": "Remote Semtex",
 			"type": "checkbox",
 			"contentFolders": ["items/remote_semtex"]
+		},
+		{
+			"name": "Deadly Banana",
+			"type": "checkbox",
+			"contentFolders": ["items/deadly_banana"]
 		}
 	]
 }
