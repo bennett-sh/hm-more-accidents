@@ -26,6 +26,11 @@
 			"name": "Deadly Banana",
 			"type": "checkbox",
 			"contentFolders": ["items/deadly_banana"]
+		},
+		{
+			"name": "All Explosives",
+			"type": "checkbox",
+			"contentFolders": ["items/all_explosives"]
 		}
 	],
 	"updateCheck": "https://github.com/bennett-sh/hm-more-accidents/releases/latest/download/updates.json"

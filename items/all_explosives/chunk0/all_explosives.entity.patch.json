@@ -1,0 +1,21 @@
+{
+	"tempHash": "00A5CBD36DA02475",
+	"tbluHash": "005D53A865F068C1",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"7b84d80f1eced79e",
+				{
+					"AddProperty": [
+						"m_eDeathContext",
+						{
+							"type": "EDeathContext",
+							"value": "eDC_ACCIDENT"
+						}
+					]
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}
