@@ -31,6 +31,26 @@
 			"name": "All Explosives",
 			"type": "checkbox",
 			"contentFolders": ["items/all_explosives"]
+		},
+
+		{
+			"name": "Full Accident",
+			"group": "Molotov",
+			"type": "select",
+			"tooltip": "Both the explosion and the fire are now accidents",
+			"contentFolders": ["items/molotov/explosion", "items/molotov/fire"]
+		},
+		{
+			"name": "Fire Accident",
+			"tooltip": "The outer fire is now an accident (like before it was nerfed)",
+			"type": "select",
+			"group": "Molotov",
+			"contentFolders": ["items/molotov/fire"]
+		},
+		{
+			"name": "Normal",
+			"type": "select",
+			"group": "Molotov"
 		}
 	],
 	"updateCheck": "https://github.com/bennett-sh/hm-more-accidents/releases/latest/download/updates.json"
