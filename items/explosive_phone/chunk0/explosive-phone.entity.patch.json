@@ -1,22 +1,22 @@
 {
-  "$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/entity-patch-schema.json",
-  "tempHash": "00C125F564ACE981",
-  "tbluHash": "00FCACE39B79DD4E",
-  "patch": [
-    {
-      "SubEntityOperation": [
-        "87fc9cdd0335ced4",
-        {
-          "AddProperty": [
-            "m_eDeathContext",
-            {
-              "type": "EDeathContext",
-              "value": "eDC_ACCIDENT"
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "patchVersion": 6
+	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/entity-patch-schema.json",
+	"tempHash": "00C125F564ACE981",
+	"tbluHash": "00FCACE39B79DD4E",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"87fc9cdd0335ced4",
+				{
+					"AddProperty": [
+						"m_eDeathContext",
+						{
+							"type": "EDeathContext",
+							"value": "eDC_ACCIDENT"
+						}
+					]
+				}
+			]
+		}
+	],
+	"patchVersion": 6
 }
