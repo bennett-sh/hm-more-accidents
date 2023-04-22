@@ -49,7 +49,8 @@
 		{
 			"name": "Normal",
 			"type": "select",
-			"group": "Molotov"
+			"group": "Molotov",
+			"enabledByDefault": true
 		}
 	],
 	"updateCheck": "https://github.com/bennett-sh/hm-more-accidents/releases/latest/download/updates.json"
